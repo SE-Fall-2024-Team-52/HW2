@@ -56,7 +56,8 @@ def recombine(left_arr, right_arr):
     return merge_arr
 
 
-arr = rand.random_array([None] * 20)
-arr_out = merge_sort(arr)
+if __name__ == '__main__':
+    arr = rand.random_array([None] * 20)
+    arr_out = merge_sort(arr)
 
-print(arr_out)
+    print(arr_out)
