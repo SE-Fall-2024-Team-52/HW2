@@ -36,7 +36,7 @@ jobs:
       - name: Run autopep8
         uses: peter-evans/autopep8@v2
         with:
-          args: --in-place --aggressive --aggressive --r.
+          args: --in-place --aggressive --aggressive --recursive.
       - name: Run Pylint
         run: pylint $(git ls-files '*.py')
       - name: Run Pyright
