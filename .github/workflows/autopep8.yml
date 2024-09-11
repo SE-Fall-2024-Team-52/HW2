@@ -10,7 +10,7 @@ permissions:
   contents: read
 
 jobs:
-  pyright:
+  autopep8:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
