@@ -1,7 +1,7 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![MIT](https://img.shields.io/badge/license-MIT-white?logo=%233776AB)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Unit Tests](https://github.com/SE-Fall-2024-Team-53/HW2/actions/workflows/tests.yml/badge.svg)(https://github.com/SE-Fall-2024-Team-53/HW2/blob/main/.github/workflows/tests.yml)
+[![Unit Tests](https://github.com/SE-Fall-2024-Team-53/HW2/actions/workflows/tests.yml/badge.svg)](https://github.com/SE-Fall-2024-Team-53/HW2/blob/main/.github/workflows/tests.yml)
 ![Pyright](https://github.com/SE-Fall-2024-Team-53/HW2/actions/workflows/pyright.yml/badge.svg)
 ![Pylint](https://github.com/SE-Fall-2024-Team-53/HW2/actions/workflows/pylint.yml/badge.svg)
 ![Autopep8](https://github.com/SE-Fall-2024-Team-53/HW2/actions/workflows/autopep8.yml/badge.svg)
